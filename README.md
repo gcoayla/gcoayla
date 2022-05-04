@@ -29,6 +29,6 @@ Frontend Developer
 
 <a href="http://www.github.com/gcoayla"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gcoayla&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcoayla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/gcoayla" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcoayla&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
